@@ -1,0 +1,11 @@
+﻿  decisiontree.cpp
+c:\users\administrator\documents\visual studio 2015\projects\decisiontree\decisiontree\decisiontree.cpp(109): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\decisiontree\decisiontree\decisiontree.cpp(114): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\decisiontree\decisiontree\decisiontree.cpp(119): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\decisiontree\decisiontree\decisiontree.cpp(138): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\decisiontree\decisiontree\decisiontree.cpp(174): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\decisiontree\decisiontree\decisiontree.cpp(187): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\decisiontree\decisiontree\decisiontree.cpp(201): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\decisiontree\decisiontree\decisiontree.cpp(218): warning C4018: “<”: 有符号/无符号不匹配
+  decisiontree.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\decisiontree\Debug\decisiontree.exe
+  decisiontree.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\decisiontree\Debug\decisiontree.pdb (Full PDB)

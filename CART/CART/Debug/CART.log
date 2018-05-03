@@ -1,0 +1,27 @@
+﻿  CART.cpp
+c:\users\administrator\documents\visual studio 2015\projects\cart\cart\cart.cpp(43): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\cart\cart\cart.cpp(48): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\cart\cart\cart.cpp(50): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\cart\cart\cart.cpp(54): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\cart\cart\cart.cpp(90): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\cart\cart\cart.cpp(94): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\cart\cart\cart.cpp(112): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\cart\cart\cart.cpp(114): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\cart\cart\cart.cpp(118): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\cart\cart\cart.cpp(124): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\documents\visual studio 2015\projects\cart\cart\cart.cpp(135): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\cart\cart\cart.cpp(140): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\cart\cart\cart.cpp(184): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\cart\cart\cart.cpp(203): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\cart\cart\cart.cpp(205): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\cart\cart\cart.cpp(227): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\cart\cart\cart.cpp(230): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\cart\cart\cart.cpp(257): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\cart\cart\cart.cpp(271): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\cart\cart\cart.cpp(286): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\cart\cart\cart.cpp(292): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\cart\cart\cart.cpp(296): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\cart\cart\cart.cpp(306): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\cart\cart\cart.cpp(323): warning C4018: “<”: 有符号/无符号不匹配
+  CART.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\CART\Debug\CART.exe
+  CART.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\CART\Debug\CART.pdb (Full PDB)

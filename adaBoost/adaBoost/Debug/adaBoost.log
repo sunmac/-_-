@@ -1,0 +1,12 @@
+﻿  adaBoost.cpp
+c:\users\administrator\documents\visual studio 2015\projects\adaboost\adaboost\adaboost.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\adaboost\adaboost\adaboost.cpp(45): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\adaboost\adaboost\adaboost.cpp(62): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\adaboost\adaboost\adaboost.cpp(71): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\adaboost\adaboost\adaboost.cpp(79): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\adaboost\adaboost\adaboost.cpp(96): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\adaboost\adaboost\adaboost.cpp(103): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\adaboost\adaboost\adaboost.cpp(110): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\adaboost\adaboost\adaboost.cpp(118): warning C4018: “<”: 有符号/无符号不匹配
+  adaBoost.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\adaBoost\Debug\adaBoost.exe
+  adaBoost.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\adaBoost\Debug\adaBoost.pdb (Full PDB)

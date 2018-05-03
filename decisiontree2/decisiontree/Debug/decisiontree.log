@@ -1,0 +1,14 @@
+﻿  decisiontree.cpp
+c:\users\administrator\documents\visual studio 2015\projects\decisiontree2\decisiontree\decisiontree.cpp(109): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\decisiontree2\decisiontree\decisiontree.cpp(114): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\decisiontree2\decisiontree\decisiontree.cpp(119): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\decisiontree2\decisiontree\decisiontree.cpp(123): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\decisiontree2\decisiontree\decisiontree.cpp(126): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\documents\visual studio 2015\projects\decisiontree2\decisiontree\decisiontree.cpp(129): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\decisiontree2\decisiontree\decisiontree.cpp(147): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\decisiontree2\decisiontree\decisiontree.cpp(183): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\decisiontree2\decisiontree\decisiontree.cpp(196): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\decisiontree2\decisiontree\decisiontree.cpp(210): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\decisiontree2\decisiontree\decisiontree.cpp(227): warning C4018: “<”: 有符号/无符号不匹配
+  decisiontree.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\decisiontree2\Debug\decisiontree.exe
+  decisiontree.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\decisiontree2\Debug\decisiontree.pdb (Full PDB)
